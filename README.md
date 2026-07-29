@@ -110,25 +110,6 @@ Top Customers by Sales
 Customers by State
 Customers by City
 Customer Details
-📦 Page 3 – Product & Order Performance Dashboard
-
-KPIs
-
-Total Products Sold
-Completed Orders
-Pending Orders
-Cancelled Orders
-
-Visuals
-
-Orders by Status
-Top Selling Products
-Revenue by Product
-Category-wise Sales
-Order Details
-📐 DAX Measures
-
-Some key DAX measures used in this project:
 
 Total Sales
 Total Orders
@@ -168,7 +149,6 @@ Example:
 images/
 │── Executive_Sales_Dashboard.png
 │── Customer_Insights_Dashboard.png
-│── Product_Order_Dashboard.png
 📁 Repository Structure
 E-Commerce-Analytics-Dashboard/
 │
